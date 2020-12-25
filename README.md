@@ -3,7 +3,7 @@
 contactList with tkinter package in python
 
 ----------------------
--   CRUD operations  -
--   tkinter package  -
+-   CRUD operations  
+-   tkinter package  
 ----------------------
 
