@@ -1,2 +1,9 @@
-# contactList
-contact list with tkinter package in  python 
+# contactList 
+
+contactList with tkinter package in python
+
+----------------------
+-   CRUD operations  -
+-   tkinter package  -
+----------------------
+
